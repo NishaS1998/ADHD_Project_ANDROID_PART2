@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">ADHD CHILD APP</string>
+    <string name="title_activity_main5">Main5Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="array_technology">
+        <item>APP RELATED QUERIES</item>
+        <item>Kruthi Makam : kruthimakam@gmail.com</item>
+        <item>Medini H M : medinimsagar8762.com</item>
+        <item>Meghana H P : meghanahp41@gmail.com</item>
+        <item>Nisha Shanbhag : nuttynisha05@gmail.com</item>
+        <item>HEALTH OR OTHER CONCERNS OR QUERIES</item>
+        <item>DOCTOR: DETAILS</item>
+        <item>TEACHER : DETAILS</item>
+        <item>PARENT : DETAILS</item>
+    </string-array>
+
+
+    <string name="aboutus1">The best way to reduce this is to monitor the child continuously on an hourly basis so that doctor
+gets approximate and needy data from monitoring systems which help in proper medication.
+This project does exactly the same as in what the needy data is required on a session or hourly
+based</string>
+
+    <string name="aboutus2">This project aims to get the procedures automated and we try to get things which cannot be
+monitored by human eye and help parents, teachers and doctors keep track and take steps to make
+some improvement towards treatment. The parameters which are considered are based on the
+questionnaire from the ADD organization. This project mainly monitors the movement,speech
+modulation and attentiveness of the already diagnosed children with ADHD. This project uses two
+devices, one of them is a wearable device which monitors the movement of the ADHD child. The
+other device monitors the attentiveness and speech modulation of the child, is placed on the study
+desk of the child affected by ADHD. The data which is collected by the sensors are sent to the
+cloud and stored for further help .The data stored in cloud is used to analyse and then this analysed
+data is represented in the form of graphs to the parents, teachers and doctors through a web
+application</string>
+
+    <string name="doc1">Although there are many ways you can help a child with ADHD at home, you may want to seek professional help along the way. ADHD specialists can help you develop an effective treatment plan for your child. Since ADHD responds best to a combination of treatments and strategies, consulting several specialists is advisable.To find ADHD treatment providers, you may want to contact your primary care physician, your child’s pediatrician, local hospitals, or clinics. Other sources for provider references include your insurance company, officials at your child’s school, or a local parent support group</string>
+
+    <string name="teacher1">The classroom environment can pose challenges for a child with attention deficit hyperactivity disorder (ADHD or ADD). The very tasks these students find the most difficult sitting still, listening quietly, concentrating are the ones they are required to do all day long. Perhaps most frustrating of all is that most of these children want to be able to learn and behave like their unaffected peers. Neurological deficits, not unwillingness, keep kids with attention deficit disorder from learning in traditional ways
+                            </string>
+
+    <string name="teacher2">Managing distractibility:
+    --Seat the child with ADHD away from doors and windows
+    --Write important information down where the child can easily read and reference it. Remind the student where the information is located</string>
+
+    <string name="aboutparent">Children with ADHD generally have deficits in executive function: the ability to think and plan ahead, organize, control impulses, and complete tasks. That means you need to take over as the executive, providing extra guidance while your child gradually acquires executive skills of their own.
+Although the symptoms of ADHD can be nothing short of exasperating, it’s important to remember that the child who is ignoring, annoying, or embarrassing you is not acting willfully. Kids with ADHD want to sit quietly; they want to make their rooms tidy and organized; they want to do everything their parent says to do—but they don’t know how to make these things happen</string>
+</resources>
+
+
